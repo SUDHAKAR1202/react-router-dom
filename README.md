@@ -63,7 +63,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+In cmd terminal at project directory: do npm install netlify-cli -g to install netlify globally.
+Then do npm run build which generates a build folder in the project
+Finally give netlify deploy to deploy project .
+
+Deployed url: https://669a364b9dd1e008a6104a6d--elegant-babka-aa71a4.netlify.app/
 
 ### `npm run build` fails to minify
 
